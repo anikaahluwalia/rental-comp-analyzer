@@ -41,7 +41,10 @@ declare global {
   var __fitzroviaListingsStore: Store | undefined;
 }
 
-const SNAPSHOT_PATH = path.join(process.cwd(), ".data", "listings.json");
+// Vercel: writable only under /tmp. Locally: .data/ in the repo.
+const SNAPSHOT_PATH = process.env.VERCEL
+  ? path.join("/tmp", "fitzrovia-data", "listings.json")
+  : path.join(process.cwd(), ".data", "listings.json");
 
 function emptyStore(): Store {
   return {

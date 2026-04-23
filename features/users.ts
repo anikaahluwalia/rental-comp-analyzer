@@ -23,7 +23,11 @@ export type StoredUser = {
   createdAt: string;
 };
 
-const DATA_DIR = path.join(process.cwd(), ".data");
+// On Vercel the app's working directory is read-only, but /tmp is writable
+// (per serverless instance). Locally we keep using .data/ in the repo.
+const DATA_DIR = process.env.VERCEL
+  ? path.join("/tmp", "fitzrovia-data")
+  : path.join(process.cwd(), ".data");
 const USERS_FILE = path.join(DATA_DIR, "users.json");
 
 const SCRYPT_KEYLEN = 64;
