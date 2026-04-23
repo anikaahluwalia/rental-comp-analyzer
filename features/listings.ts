@@ -4,6 +4,7 @@ import { tmpdir } from "node:os";
 import type { Listing, ScrapeRun } from "./types";
 import { PROPERTIES } from "./properties";
 import { scrapeAll } from "./sources";
+import seedData from "./seed-listings.json";
 
 /**
  * In-memory listings store, backed by a disk snapshot.
@@ -57,6 +58,25 @@ function emptyStore(): Store {
   };
 }
 
+/**
+ * Bundled seed snapshot — a real scrape captured locally and committed to
+ * the repo. Used as a cold-start fallback on serverless hosts where /tmp is
+ * per-instance and ephemeral (so every fresh Lambda would otherwise show
+ * "never scraped" until someone manually re-scrapes, and then the next
+ * Lambda would show different data again).
+ *
+ * Regenerate: run `npm run dev`, trigger a scrape, then
+ *   cp .data/listings.json features/seed-listings.json
+ */
+function seedStore(): Store {
+  const s = seedData as Partial<Store>;
+  return {
+    listings: s.listings ?? [],
+    runs: s.runs ?? [],
+    lastScrapedAt: s.lastScrapedAt ?? null,
+  };
+}
+
 function loadSnapshotSync(): Store | null {
   // Sync load so ensureStore() can stay synchronous for the common hot path
   // (getListings, getLastScrapedAt). Dev-only file, tiny JSON — the sync
@@ -91,11 +111,12 @@ async function writeSnapshot(store: Store): Promise<void> {
 
 function ensureStore(): Store {
   if (!globalThis.__fitzroviaListingsStore) {
-    // On a cold boot, prefer the last-good on-disk snapshot so restarting the
-    // dev server doesn't wipe a successful scrape. If there's no snapshot,
-    // start empty — the UI will render a "never scraped yet" empty state
-    // prompting the user to click "Scrape now".
-    globalThis.__fitzroviaListingsStore = loadSnapshotSync() ?? emptyStore();
+    // Cold-boot priority:
+    //   1. on-disk snapshot (a fresher scrape written since boot)
+    //   2. bundled seed    (consistent baseline across every Vercel instance)
+    //   3. empty           (never — we always have a seed)
+    globalThis.__fitzroviaListingsStore =
+      loadSnapshotSync() ?? seedStore() ?? emptyStore();
   }
   return globalThis.__fitzroviaListingsStore;
 }

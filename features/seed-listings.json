@@ -1,0 +1,5519 @@
+{
+  "listings": [
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2145,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0001",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3620,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0002",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2170,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0003",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2475,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0004",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0005",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0006",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2575,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2625,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2650,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2675,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2675,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2700,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2725,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2925,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 3250,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3325,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3620,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3620,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2145,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2170,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2475,
+      "sqft": 886,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2925,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2475,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2575,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2675,
+      "sqft": 509,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2675,
+      "sqft": 494,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2675,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2700,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0034",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2725,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0035",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2725,
+      "sqft": 553,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0036",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 2925,
+      "sqft": 494,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0037",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3250,
+      "sqft": 568,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0038",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3325,
+      "sqft": 568,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0039",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3325,
+      "sqft": 494,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0040",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3620,
+      "sqft": 553,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0041",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3620,
+      "sqft": 568,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0042",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2145,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0043",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2170,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0044",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2475,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0045",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0046",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0047",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0048",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2575,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0049",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0050",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2625,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0051",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "1-Bed",
+      "rent": 2650,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0052",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 1716,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0053",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 4344,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0054",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 1790,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0055",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3100,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0056",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 1825,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0057",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2599,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0058",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2100,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0059",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 3350,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0060",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2000,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0061",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2800,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0062",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 1900,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0063",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 3200,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0064",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2075,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0065",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 4300,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0066",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 3050,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0067",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 1750,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0068",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2950,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0069",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2070,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0070",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "2-Bed",
+      "rent": 3250,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0071",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2070,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0072",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2435,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0073",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3353,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0074",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2520,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0075",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 4470,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0076",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2265,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0077",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 3543,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0078",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 5300,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0079",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "3-Bed",
+      "rent": 2000,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0080",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2253,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0081",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 4187,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0082",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 1949,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0083",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 4280,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0084",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2099,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0085",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 3699,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0086",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 2215,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0087",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "parker",
+      "unitType": "Bachelor",
+      "rent": 3170,
+      "incentive": "Limited Time Offer: Sign a lease before August 31st, 2025 to receive up to 2 months free, $1,000 move-in bonus, & complimentary Wi-Fi",
+      "unitId": "PARKER-0088",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:15.417Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "Bachelor",
+      "rent": 1900,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2300,
+      "sqft": 935,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2800,
+      "sqft": 935,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "2-Bed",
+      "rent": 2900,
+      "sqft": 935,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 4200,
+      "sqft": 935,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 4280,
+      "sqft": 935,
+      "incentive": "1 MONTH FREE RENT",
+      "unitId": "STORYOFMIDTOWN-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 1949,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 2330,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2339,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2830,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2961,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "2-Bed",
+      "rent": 4280,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 1949,
+      "sqft": 935,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2330,
+      "sqft": 402,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2339,
+      "sqft": 402,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2830,
+      "sqft": 402,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "2-Bed",
+      "rent": 2961,
+      "sqft": 402,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 4280,
+      "sqft": 402,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 1949,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2330,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2339,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2830,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "1-Bed",
+      "rent": 2961,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "2-Bed",
+      "rent": 4280,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 1559,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "unitType": "3-Bed",
+      "rent": 5136,
+      "incentive": "Move-In Bonus",
+      "unitId": "STORYOFMIDTOWN-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:15.418Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 2266,
+      "sqft": 1093,
+      "unitId": "THESELBY-0001",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 4425,
+      "sqft": 1093,
+      "unitId": "THESELBY-0002",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 2268,
+      "sqft": 1093,
+      "unitId": "THESELBY-0003",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2353,
+      "sqft": 1093,
+      "unitId": "THESELBY-0004",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2428,
+      "sqft": 1093,
+      "unitId": "THESELBY-0005",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2503,
+      "sqft": 1093,
+      "unitId": "THESELBY-0006",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2518,
+      "sqft": 1093,
+      "unitId": "THESELBY-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2558,
+      "sqft": 1093,
+      "unitId": "THESELBY-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2593,
+      "sqft": 1093,
+      "unitId": "THESELBY-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2603,
+      "sqft": 1093,
+      "unitId": "THESELBY-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2623,
+      "sqft": 1093,
+      "unitId": "THESELBY-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2678,
+      "sqft": 1093,
+      "unitId": "THESELBY-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 3202,
+      "sqft": 1093,
+      "unitId": "THESELBY-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3207,
+      "sqft": 1093,
+      "unitId": "THESELBY-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3337,
+      "sqft": 1093,
+      "unitId": "THESELBY-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3437,
+      "sqft": 1093,
+      "unitId": "THESELBY-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3487,
+      "sqft": 1093,
+      "unitId": "THESELBY-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3607,
+      "sqft": 1093,
+      "unitId": "THESELBY-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 4425,
+      "sqft": 1093,
+      "unitId": "THESELBY-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2268,
+      "sqft": 524,
+      "unitId": "THESELBY-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2678,
+      "sqft": 524,
+      "unitId": "THESELBY-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2353,
+      "sqft": 524,
+      "unitId": "THESELBY-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2428,
+      "sqft": 524,
+      "unitId": "THESELBY-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2503,
+      "sqft": 524,
+      "unitId": "THESELBY-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2518,
+      "sqft": 524,
+      "unitId": "THESELBY-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2558,
+      "sqft": 524,
+      "unitId": "THESELBY-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2593,
+      "sqft": 524,
+      "unitId": "THESELBY-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2603,
+      "sqft": 524,
+      "unitId": "THESELBY-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 2603,
+      "sqft": 524,
+      "unitId": "THESELBY-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 2623,
+      "sqft": 524,
+      "unitId": "THESELBY-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 2678,
+      "sqft": 524,
+      "unitId": "THESELBY-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3202,
+      "sqft": 603,
+      "unitId": "THESELBY-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3607,
+      "sqft": 603,
+      "unitId": "THESELBY-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3202,
+      "sqft": 579,
+      "unitId": "THESELBY-0034",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3207,
+      "sqft": 610,
+      "unitId": "THESELBY-0035",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3337,
+      "sqft": 603,
+      "unitId": "THESELBY-0036",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3437,
+      "sqft": 658,
+      "unitId": "THESELBY-0037",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3487,
+      "sqft": 628,
+      "unitId": "THESELBY-0038",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3607,
+      "sqft": 582,
+      "unitId": "THESELBY-0039",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 4425,
+      "sqft": 603,
+      "unitId": "THESELBY-0040",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 2268,
+      "unitId": "THESELBY-0041",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2353,
+      "unitId": "THESELBY-0042",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2428,
+      "unitId": "THESELBY-0043",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2503,
+      "unitId": "THESELBY-0044",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2518,
+      "unitId": "THESELBY-0045",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2558,
+      "unitId": "THESELBY-0046",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2593,
+      "unitId": "THESELBY-0047",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2603,
+      "unitId": "THESELBY-0048",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2623,
+      "unitId": "THESELBY-0049",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2678,
+      "unitId": "THESELBY-0050",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 3202,
+      "unitId": "THESELBY-0051",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3207,
+      "unitId": "THESELBY-0052",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3337,
+      "unitId": "THESELBY-0053",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3437,
+      "unitId": "THESELBY-0054",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3487,
+      "unitId": "THESELBY-0055",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 3607,
+      "unitId": "THESELBY-0056",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "2-Bed",
+      "rent": 4425,
+      "unitId": "THESELBY-0057",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 1814,
+      "unitId": "THESELBY-0058",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 5310,
+      "unitId": "THESELBY-0059",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 1800,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0060",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 3450,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0061",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 8500,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0062",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 8850,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0063",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 2290,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0064",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 3550,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0065",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 3000,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0066",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "Bachelor",
+      "rent": 2400,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0067",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 2850,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0068",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "1-Bed",
+      "rent": 1960,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0069",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 4425,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0070",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "the-selby",
+      "unitType": "3-Bed",
+      "rent": 2428,
+      "incentive": "UP TO 1 MONTH FREE RENT",
+      "unitId": "THESELBY-0071",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.246Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2045,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2194,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2285,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2417,
+      "sqft": 500,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2432,
+      "sqft": 500,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2547,
+      "sqft": 509,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3691,
+      "sqft": 694,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0007",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3701,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\*",
+      "unitId": "ECENTRAL-0008",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 1945,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3691,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2045,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2194,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2285,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2417,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2432,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2547,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 3691,
+      "sqft": 1120,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2045,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 1945,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2547,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2417,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2432,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3691,
+      "sqft": 583,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 1945,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2045,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2194,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2285,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2417,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2432,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 2547,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "1-Bed",
+      "rent": 3691,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 1556,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 4429,
+      "incentive": "UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2150,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0034",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3700,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0035",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2300,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0036",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2850,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0037",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2000,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0038",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3170,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0039",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2195,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0040",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3400,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0041",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 4750,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0042",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2600,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0043",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3000,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0044",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2150,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0045",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3500,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0046",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2045,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0047",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 3691,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0048",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "2-Bed",
+      "rent": 2045,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0049",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2000,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0050",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3100,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0051",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 1850,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0052",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2750,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0053",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2125,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0054",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3995,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0055",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2075,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0056",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 4300,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0057",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2005,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0058",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3320,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0059",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2435,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0060",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3353,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0061",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2099,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0062",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3699,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0063",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2200,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0064",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2145,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0065",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2935,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0066",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 2070,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0067",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "ecentral",
+      "unitType": "Bachelor",
+      "rent": 3620,
+      "incentive": "Up To 2 Months Free On Select Suites - RENT TODAY AND RECEIVE UP TO 2 MONTHS FREE ON Select Suites\\* \\| Move in before April 30 and received an additional $500 bonus\\*",
+      "unitId": "ECENTRAL-0068",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:17.247Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2400,
+      "sqft": 519,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2818,
+      "sqft": 519,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2978,
+      "sqft": 622,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2993,
+      "sqft": 622,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3171,
+      "sqft": 689,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3401,
+      "sqft": 689,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3401,
+      "sqft": 845,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0007",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3563,
+      "incentive": "Limited time offer",
+      "unitId": "THEMONTGOMERY-0008",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.591Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 2435,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3401,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2818,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2978,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2993,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3171,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3353,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3401,
+      "sqft": 1077,
+      "unitId": "THEMONTGOMERY-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2435,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3401,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2978,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2993,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3171,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3401,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3353,
+      "sqft": 519,
+      "unitId": "THEMONTGOMERY-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2435,
+      "unitId": "THEMONTGOMERY-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2818,
+      "unitId": "THEMONTGOMERY-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2978,
+      "unitId": "THEMONTGOMERY-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 2993,
+      "unitId": "THEMONTGOMERY-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3171,
+      "unitId": "THEMONTGOMERY-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3353,
+      "unitId": "THEMONTGOMERY-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 3401,
+      "unitId": "THEMONTGOMERY-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "1-Bed",
+      "rent": 3401,
+      "unitId": "THEMONTGOMERY-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 1948,
+      "unitId": "THEMONTGOMERY-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-montgomery",
+      "unitType": "2-Bed",
+      "rent": 4081,
+      "unitId": "THEMONTGOMERY-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.592Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2100,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2310,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2605,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2940,
+      "sqft": 325,
+      "unitId": "THEWHITNEY-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3445,
+      "sqft": 452,
+      "unitId": "THEWHITNEY-0007",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3450,
+      "sqft": 474,
+      "unitId": "THEWHITNEY-0008",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4650,
+      "sqft": 524,
+      "unitId": "THEWHITNEY-0009",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6000,
+      "sqft": 551,
+      "unitId": "THEWHITNEY-0010",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6000,
+      "sqft": 652,
+      "unitId": "THEWHITNEY-0011",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4400,
+      "sqft": 788,
+      "unitId": "THEWHITNEY-0012",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4625,
+      "sqft": 812,
+      "unitId": "THEWHITNEY-0013",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5000,
+      "sqft": 876,
+      "unitId": "THEWHITNEY-0014",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5400,
+      "sqft": 917,
+      "unitId": "THEWHITNEY-0015",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "sqft": 920,
+      "unitId": "THEWHITNEY-0016",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5000,
+      "sqft": 936,
+      "unitId": "THEWHITNEY-0017",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4500,
+      "sqft": 961,
+      "unitId": "THEWHITNEY-0018",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5000,
+      "sqft": 961,
+      "unitId": "THEWHITNEY-0019",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4800,
+      "sqft": 969,
+      "unitId": "THEWHITNEY-0020",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5200,
+      "sqft": 907,
+      "unitId": "THEWHITNEY-0021",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6250,
+      "sqft": 1022,
+      "unitId": "THEWHITNEY-0022",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6175,
+      "sqft": 1052,
+      "unitId": "THEWHITNEY-0023",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8000,
+      "sqft": 1064,
+      "unitId": "THEWHITNEY-0024",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8250,
+      "sqft": 1069,
+      "unitId": "THEWHITNEY-0025",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 9000,
+      "sqft": 1143,
+      "unitId": "THEWHITNEY-0026",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 7500,
+      "sqft": 1280,
+      "unitId": "THEWHITNEY-0027",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2100,
+      "sqft": 1126,
+      "unitId": "THEWHITNEY-0028",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2310,
+      "sqft": 1295,
+      "unitId": "THEWHITNEY-0029",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 1592,
+      "unitId": "THEWHITNEY-0030",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2605,
+      "sqft": 452,
+      "unitId": "THEWHITNEY-0031",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2940,
+      "sqft": 474,
+      "unitId": "THEWHITNEY-0032",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3445,
+      "sqft": 524,
+      "unitId": "THEWHITNEY-0033",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3450,
+      "sqft": 551,
+      "unitId": "THEWHITNEY-0034",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4650,
+      "sqft": 652,
+      "unitId": "THEWHITNEY-0035",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6000,
+      "sqft": 788,
+      "unitId": "THEWHITNEY-0036",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6000,
+      "sqft": 812,
+      "unitId": "THEWHITNEY-0037",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4400,
+      "sqft": 876,
+      "unitId": "THEWHITNEY-0038",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4625,
+      "sqft": 917,
+      "unitId": "THEWHITNEY-0039",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5000,
+      "sqft": 920,
+      "unitId": "THEWHITNEY-0040",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5400,
+      "sqft": 936,
+      "unitId": "THEWHITNEY-0041",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "sqft": 961,
+      "unitId": "THEWHITNEY-0042",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4500,
+      "sqft": 969,
+      "unitId": "THEWHITNEY-0043",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5000,
+      "sqft": 907,
+      "unitId": "THEWHITNEY-0044",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4800,
+      "sqft": 1022,
+      "unitId": "THEWHITNEY-0045",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5200,
+      "sqft": 1052,
+      "unitId": "THEWHITNEY-0046",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6250,
+      "sqft": 1064,
+      "unitId": "THEWHITNEY-0047",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 6175,
+      "sqft": 1069,
+      "unitId": "THEWHITNEY-0048",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8000,
+      "sqft": 1143,
+      "unitId": "THEWHITNEY-0049",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8250,
+      "sqft": 1280,
+      "unitId": "THEWHITNEY-0050",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 9000,
+      "sqft": 1281,
+      "unitId": "THEWHITNEY-0051",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 7500,
+      "sqft": 1126,
+      "unitId": "THEWHITNEY-0052",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2320,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0053",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 9000,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0054",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2630,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0055",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2655,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0056",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2940,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0057",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 3445,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0058",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4440,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0059",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5800,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0060",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 8000,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0061",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 9000,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0062",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2320,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0063",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 9000,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0064",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3445,
+      "sqft": 1422,
+      "unitId": "THEWHITNEY-0065",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4440,
+      "sqft": 452,
+      "unitId": "THEWHITNEY-0066",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5800,
+      "sqft": 452,
+      "unitId": "THEWHITNEY-0067",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8000,
+      "sqft": 452,
+      "unitId": "THEWHITNEY-0068",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 9000,
+      "sqft": 524,
+      "unitId": "THEWHITNEY-0069",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2320,
+      "unitId": "THEWHITNEY-0070",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2630,
+      "unitId": "THEWHITNEY-0071",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2655,
+      "unitId": "THEWHITNEY-0072",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 2940,
+      "unitId": "THEWHITNEY-0073",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "1-Bed",
+      "rent": 3445,
+      "unitId": "THEWHITNEY-0074",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 4440,
+      "unitId": "THEWHITNEY-0075",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 5800,
+      "unitId": "THEWHITNEY-0076",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 8000,
+      "unitId": "THEWHITNEY-0077",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 9000,
+      "unitId": "THEWHITNEY-0078",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:18.593Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 2085,
+      "unitId": "THEWHITNEY-0079",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 2871,
+      "unitId": "THEWHITNEY-0080",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 2295,
+      "unitId": "THEWHITNEY-0081",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 3500,
+      "unitId": "THEWHITNEY-0082",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 2220,
+      "unitId": "THEWHITNEY-0083",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 3250,
+      "unitId": "THEWHITNEY-0084",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 1950,
+      "unitId": "THEWHITNEY-0085",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 3400,
+      "unitId": "THEWHITNEY-0086",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2650,
+      "unitId": "THEWHITNEY-0087",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2850,
+      "unitId": "THEWHITNEY-0088",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2600,
+      "unitId": "THEWHITNEY-0089",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 3000,
+      "unitId": "THEWHITNEY-0090",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2200,
+      "unitId": "THEWHITNEY-0091",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 4500,
+      "unitId": "THEWHITNEY-0092",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 3500,
+      "unitId": "THEWHITNEY-0093",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "Bachelor",
+      "rent": 2320,
+      "unitId": "THEWHITNEY-0094",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "2-Bed",
+      "rent": 3445,
+      "unitId": "THEWHITNEY-0095",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 8000,
+      "unitId": "THEWHITNEY-0096",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-whitney",
+      "unitType": "3-Bed",
+      "rent": 2320,
+      "unitId": "THEWHITNEY-0097",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:18.594Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 2125,
+      "sqft": 486,
+      "unitId": "THEHAMPTON-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2750,
+      "sqft": 486,
+      "unitId": "THEHAMPTON-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 3300,
+      "sqft": 486,
+      "unitId": "THEHAMPTON-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 3995,
+      "sqft": 486,
+      "unitId": "THEHAMPTON-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2250,
+      "unitId": "THEHAMPTON-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2750,
+      "unitId": "THEHAMPTON-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3025,
+      "unitId": "THEHAMPTON-0007",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 5595,
+      "unitId": "THEHAMPTON-0008",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.666Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 2125,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 3995,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2195,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2250,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2400,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2450,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2475,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2750,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 3300,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3400,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3995,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2125,
+      "sqft": 1064,
+      "unitId": "THEHAMPTON-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "sqft": 519,
+      "unitId": "THEHAMPTON-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2750,
+      "sqft": 519,
+      "unitId": "THEHAMPTON-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3300,
+      "sqft": 519,
+      "unitId": "THEHAMPTON-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3400,
+      "sqft": 519,
+      "unitId": "THEHAMPTON-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3300,
+      "sqft": 486,
+      "unitId": "THEHAMPTON-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3400,
+      "unitId": "THEHAMPTON-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 3995,
+      "sqft": 570,
+      "unitId": "THEHAMPTON-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2125,
+      "unitId": "THEHAMPTON-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2195,
+      "unitId": "THEHAMPTON-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2400,
+      "unitId": "THEHAMPTON-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2450,
+      "unitId": "THEHAMPTON-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2475,
+      "unitId": "THEHAMPTON-0034",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "unitId": "THEHAMPTON-0035",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2550,
+      "unitId": "THEHAMPTON-0036",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 3300,
+      "unitId": "THEHAMPTON-0037",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3995,
+      "unitId": "THEHAMPTON-0038",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 1700,
+      "unitId": "THEHAMPTON-0039",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 4794,
+      "unitId": "THEHAMPTON-0040",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.668Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 1825,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0041",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 2599,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0042",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 2650,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0043",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 2850,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0044",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 2150,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0045",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 3700,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0046",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 2600,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0047",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 3000,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0048",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "Bachelor",
+      "rent": 2300,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0049",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2075,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0050",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 4300,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0051",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2700,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0052",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 4750,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0053",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2100,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0054",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 3350,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0055",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "2-Bed",
+      "rent": 3300,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0056",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 3995,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0057",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2215,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0058",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2260,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0059",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0060",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "the-hampton",
+      "unitType": "3-Bed",
+      "rent": 2125,
+      "incentive": "2 months free",
+      "unitId": "THEHAMPTON-0061",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "1-Bed",
+      "rent": 2195,
+      "sqft": 460,
+      "unitId": "E18HTEEN-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "1-Bed",
+      "rent": 2250,
+      "sqft": 460,
+      "unitId": "E18HTEEN-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "1-Bed",
+      "rent": 2365,
+      "sqft": 460,
+      "unitId": "E18HTEEN-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "1-Bed",
+      "rent": 2500,
+      "sqft": 460,
+      "unitId": "E18HTEEN-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 3285,
+      "sqft": 794,
+      "unitId": "E18HTEEN-0005",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 3285,
+      "unitId": "E18HTEEN-0006",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 2628,
+      "unitId": "E18HTEEN-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 3942,
+      "unitId": "E18HTEEN-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:19.669Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 2300,
+      "unitId": "E18HTEEN-0009",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 1700,
+      "unitId": "E18HTEEN-0010",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 1850,
+      "unitId": "E18HTEEN-0011",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 1975,
+      "unitId": "E18HTEEN-0012",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "2-Bed",
+      "rent": 3100,
+      "unitId": "E18HTEEN-0013",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2700,
+      "unitId": "E18HTEEN-0014",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 4750,
+      "unitId": "E18HTEEN-0015",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2197,
+      "unitId": "E18HTEEN-0016",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 3090,
+      "unitId": "E18HTEEN-0017",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2075,
+      "unitId": "E18HTEEN-0018",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 4300,
+      "unitId": "E18HTEEN-0019",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2300,
+      "unitId": "E18HTEEN-0020",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2850,
+      "unitId": "E18HTEEN-0021",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "e18hteen",
+      "unitType": "Bachelor",
+      "rent": 2556,
+      "unitId": "E18HTEEN-0022",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:19.670Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2000,
+      "unitId": "CORNERONBROADWAY-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.063Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2150,
+      "unitId": "CORNERONBROADWAY-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.063Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "unitId": "CORNERONBROADWAY-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.063Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2700,
+      "unitId": "CORNERONBROADWAY-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.063Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2150,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0005",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 4750,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0006",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2563,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2700,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2700,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2960,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3275,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3350,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3375,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4750,
+      "sqft": 984,
+      "unitId": "CORNERONBROADWAY-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2150,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2525,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2563,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2700,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2960,
+      "sqft": 437,
+      "unitId": "CORNERONBROADWAY-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3275,
+      "sqft": 458,
+      "unitId": "CORNERONBROADWAY-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3350,
+      "sqft": 444,
+      "unitId": "CORNERONBROADWAY-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3375,
+      "sqft": 505,
+      "unitId": "CORNERONBROADWAY-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "sqft": 505,
+      "unitId": "CORNERONBROADWAY-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4750,
+      "sqft": 515,
+      "unitId": "CORNERONBROADWAY-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2563,
+      "unitId": "CORNERONBROADWAY-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2700,
+      "unitId": "CORNERONBROADWAY-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2960,
+      "unitId": "CORNERONBROADWAY-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3275,
+      "unitId": "CORNERONBROADWAY-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3350,
+      "unitId": "CORNERONBROADWAY-0032",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 3375,
+      "unitId": "CORNERONBROADWAY-0033",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4000,
+      "unitId": "CORNERONBROADWAY-0034",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 4750,
+      "unitId": "CORNERONBROADWAY-0035",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.066Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "3-Bed",
+      "rent": 1750,
+      "unitId": "CORNERONBROADWAY-0036",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "3-Bed",
+      "rent": 2950,
+      "unitId": "CORNERONBROADWAY-0037",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 2000,
+      "unitId": "CORNERONBROADWAY-0038",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 2800,
+      "unitId": "CORNERONBROADWAY-0039",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 1790,
+      "unitId": "CORNERONBROADWAY-0040",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 3100,
+      "unitId": "CORNERONBROADWAY-0041",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 1900,
+      "unitId": "CORNERONBROADWAY-0042",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 3200,
+      "unitId": "CORNERONBROADWAY-0043",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 2197,
+      "unitId": "CORNERONBROADWAY-0044",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 3090,
+      "unitId": "CORNERONBROADWAY-0045",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 2100,
+      "unitId": "CORNERONBROADWAY-0046",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 3050,
+      "unitId": "CORNERONBROADWAY-0047",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 1975,
+      "unitId": "CORNERONBROADWAY-0048",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 3250,
+      "unitId": "CORNERONBROADWAY-0049",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "Bachelor",
+      "rent": 2150,
+      "unitId": "CORNERONBROADWAY-0050",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "3-Bed",
+      "rent": 4750,
+      "unitId": "CORNERONBROADWAY-0051",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "1-Bed",
+      "rent": 2564,
+      "unitId": "CORNERONBROADWAY-0052",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "unitType": "2-Bed",
+      "rent": 2961,
+      "unitId": "CORNERONBROADWAY-0053",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2520,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0001",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0002",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2670,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0003",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2840,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0004",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2990,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0005",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 3470,
+      "sqft": 586,
+      "incentive": "2 Months Free** \\+ **$500 Move-In Bonus** on 2-Year Leases",
+      "unitId": "AKOYALIVING-0006",
+      "source": "official-site",
+      "scrapedAt": "2026-04-23T03:20:21.067Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2520,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0007",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 4470,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0008",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2600,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0009",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2670,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0010",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2840,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0011",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2990,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0012",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 3470,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0013",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 3690,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0014",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 4470,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0015",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2520,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0016",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2840,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0017",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0018",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2670,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0019",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2990,
+      "sqft": 1228,
+      "unitId": "AKOYALIVING-0020",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 4470,
+      "sqft": 586,
+      "unitId": "AKOYALIVING-0021",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2520,
+      "unitId": "AKOYALIVING-0022",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2600,
+      "unitId": "AKOYALIVING-0023",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2670,
+      "unitId": "AKOYALIVING-0024",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2840,
+      "unitId": "AKOYALIVING-0025",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 2990,
+      "unitId": "AKOYALIVING-0026",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 3470,
+      "unitId": "AKOYALIVING-0027",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 3690,
+      "unitId": "AKOYALIVING-0028",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "2-Bed",
+      "rent": 4470,
+      "unitId": "AKOYALIVING-0029",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2016,
+      "unitId": "AKOYALIVING-0030",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 5364,
+      "unitId": "AKOYALIVING-0031",
+      "source": "rentals-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2075,
+      "unitId": "AKOYALIVING-0032",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 4300,
+      "unitId": "AKOYALIVING-0033",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2700,
+      "unitId": "AKOYALIVING-0034",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 4750,
+      "unitId": "AKOYALIVING-0035",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2195,
+      "unitId": "AKOYALIVING-0036",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 3400,
+      "unitId": "AKOYALIVING-0037",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 1825,
+      "unitId": "AKOYALIVING-0038",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 2599,
+      "unitId": "AKOYALIVING-0039",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 1700,
+      "unitId": "AKOYALIVING-0040",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 1850,
+      "unitId": "AKOYALIVING-0041",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 2000,
+      "unitId": "AKOYALIVING-0042",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 2800,
+      "unitId": "AKOYALIVING-0043",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 1790,
+      "unitId": "AKOYALIVING-0044",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 3100,
+      "unitId": "AKOYALIVING-0045",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 2150,
+      "unitId": "AKOYALIVING-0046",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "Bachelor",
+      "rent": 3375,
+      "unitId": "AKOYALIVING-0047",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2520,
+      "unitId": "AKOYALIVING-0048",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 4470,
+      "unitId": "AKOYALIVING-0049",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2600,
+      "unitId": "AKOYALIVING-0050",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2670,
+      "unitId": "AKOYALIVING-0051",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "1-Bed",
+      "rent": 2840,
+      "unitId": "AKOYALIVING-0052",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    },
+    {
+      "propertyId": "akoya-living",
+      "unitType": "3-Bed",
+      "rent": 2520,
+      "unitId": "AKOYALIVING-0053",
+      "source": "zillow-ca",
+      "scrapedAt": "2026-04-23T03:20:21.068Z"
+    }
+  ],
+  "runs": [
+    {
+      "propertyId": "parker",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:15.414Z",
+      "finishedAt": "2026-04-23T03:20:16.853Z",
+      "status": "failed",
+      "listingsFound": 0,
+      "pagesScraped": [
+        "https://www.parkerlife.ca/floorplans",
+        "https://www.parkerlife.ca"
+      ],
+      "error": "Scraped 2 page(s) but parser found no units."
+    },
+    {
+      "propertyId": "parker",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:15.417Z",
+      "finishedAt": "2026-04-23T03:20:16.309Z",
+      "status": "ok",
+      "listingsFound": 54,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/200-redpath-avenue"
+      ]
+    },
+    {
+      "propertyId": "parker",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:15.417Z",
+      "finishedAt": "2026-04-23T03:20:16.724Z",
+      "status": "ok",
+      "listingsFound": 42,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/parker/CkGFZj/"
+      ]
+    },
+    {
+      "propertyId": "parker",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:15.417Z",
+      "finishedAt": "2026-04-23T03:20:16.536Z",
+      "status": "failed",
+      "listingsFound": 0,
+      "pagesScraped": [
+        "https://liv.rent/building/23131/the-parker-apartment-building-200-redpath-ave-toronto-on"
+      ],
+      "error": "Scraped liv-rent page but parser found no units."
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:15.418Z",
+      "finishedAt": "2026-04-23T03:20:16.984Z",
+      "status": "ok",
+      "listingsFound": 6,
+      "pagesScraped": [
+        "https://www.mystorymidtown.com/suites",
+        "https://www.mystorymidtown.com"
+      ]
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:15.418Z",
+      "finishedAt": "2026-04-23T03:20:17.243Z",
+      "status": "ok",
+      "listingsFound": 21,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/73-broadway-avenue"
+      ]
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:15.418Z",
+      "finishedAt": "2026-04-23T03:20:15.418Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No zillow-ca URL configured for story-of-midtown."
+    },
+    {
+      "propertyId": "story-of-midtown",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:15.418Z",
+      "finishedAt": "2026-04-23T03:20:15.418Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for story-of-midtown."
+    },
+    {
+      "propertyId": "the-selby",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:17.244Z",
+      "finishedAt": "2026-04-23T03:20:18.590Z",
+      "status": "failed",
+      "listingsFound": 0,
+      "pagesScraped": [
+        "https://triconliving.com/apartment/the-selby/#your-perfect-layout",
+        "https://triconliving.com/apartment/the-selby/"
+      ],
+      "error": "Scraped 2 page(s) but parser found no units."
+    },
+    {
+      "propertyId": "the-selby",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:17.246Z",
+      "finishedAt": "2026-04-23T03:20:17.803Z",
+      "status": "ok",
+      "listingsFound": 59,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/25-selby-street-1"
+      ]
+    },
+    {
+      "propertyId": "the-selby",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:17.246Z",
+      "finishedAt": "2026-04-23T03:20:17.786Z",
+      "status": "ok",
+      "listingsFound": 23,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/the-selby/BNQ8Vm/"
+      ]
+    },
+    {
+      "propertyId": "the-selby",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:17.246Z",
+      "finishedAt": "2026-04-23T03:20:17.246Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for the-selby."
+    },
+    {
+      "propertyId": "ecentral",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:17.247Z",
+      "finishedAt": "2026-04-23T03:20:18.237Z",
+      "status": "ok",
+      "listingsFound": 8,
+      "pagesScraped": [
+        "https://www.ecentralliving.com/rental-suites",
+        "https://www.ecentralliving.com"
+      ]
+    },
+    {
+      "propertyId": "ecentral",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:17.247Z",
+      "finishedAt": "2026-04-23T03:20:17.597Z",
+      "status": "ok",
+      "listingsFound": 27,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/15-roehampton-avenue-id1197586"
+      ]
+    },
+    {
+      "propertyId": "ecentral",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:17.247Z",
+      "finishedAt": "2026-04-23T03:20:18.151Z",
+      "status": "ok",
+      "listingsFound": 37,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/ecentral/Cmftqw/"
+      ]
+    },
+    {
+      "propertyId": "ecentral",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:17.248Z",
+      "finishedAt": "2026-04-23T03:20:17.248Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for ecentral."
+    },
+    {
+      "propertyId": "the-montgomery",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:18.591Z",
+      "finishedAt": "2026-04-23T03:20:19.666Z",
+      "status": "ok",
+      "listingsFound": 8,
+      "pagesScraped": [
+        "https://www.themontgomery.ca/floorplans",
+        "https://www.themontgomery.ca"
+      ]
+    },
+    {
+      "propertyId": "the-montgomery",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:18.592Z",
+      "finishedAt": "2026-04-23T03:20:19.064Z",
+      "status": "ok",
+      "listingsFound": 26,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/the-montgomery"
+      ]
+    },
+    {
+      "propertyId": "the-montgomery",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:18.593Z",
+      "finishedAt": "2026-04-23T03:20:18.593Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No zillow-ca URL configured for the-montgomery."
+    },
+    {
+      "propertyId": "the-montgomery",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:18.593Z",
+      "finishedAt": "2026-04-23T03:20:18.593Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for the-montgomery."
+    },
+    {
+      "propertyId": "the-whitney",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:18.593Z",
+      "finishedAt": "2026-04-23T03:20:19.314Z",
+      "status": "ok",
+      "listingsFound": 52,
+      "pagesScraped": [
+        "https://www.thewhitneyonredpath.com/apartments/",
+        "https://www.thewhitneyonredpath.com"
+      ]
+    },
+    {
+      "propertyId": "the-whitney",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:18.593Z",
+      "finishedAt": "2026-04-23T03:20:19.112Z",
+      "status": "ok",
+      "listingsFound": 26,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/71-redpath-ave"
+      ]
+    },
+    {
+      "propertyId": "the-whitney",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:18.594Z",
+      "finishedAt": "2026-04-23T03:20:19.294Z",
+      "status": "ok",
+      "listingsFound": 25,
+      "pagesScraped": [
+        "https://www.zillow.com/b/the-whitney-on-redpath-toronto-on-BMWMwX/"
+      ]
+    },
+    {
+      "propertyId": "the-whitney",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:18.594Z",
+      "finishedAt": "2026-04-23T03:20:18.594Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for the-whitney."
+    },
+    {
+      "propertyId": "the-hampton",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:19.666Z",
+      "finishedAt": "2026-04-23T03:20:20.387Z",
+      "status": "ok",
+      "listingsFound": 8,
+      "pagesScraped": [
+        "https://thehampton.ca/floorplans/",
+        "https://thehampton.ca"
+      ]
+    },
+    {
+      "propertyId": "the-hampton",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:19.668Z",
+      "finishedAt": "2026-04-23T03:20:20.001Z",
+      "status": "ok",
+      "listingsFound": 34,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/the-hampton"
+      ]
+    },
+    {
+      "propertyId": "the-hampton",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:19.669Z",
+      "finishedAt": "2026-04-23T03:20:21.060Z",
+      "status": "ok",
+      "listingsFound": 31,
+      "pagesScraped": [
+        "https://www.zillow.com/b/the-hampton-toronto-on-BgqrRH/"
+      ]
+    },
+    {
+      "propertyId": "the-hampton",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:19.669Z",
+      "finishedAt": "2026-04-23T03:20:19.669Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for the-hampton."
+    },
+    {
+      "propertyId": "e18hteen",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:19.669Z",
+      "finishedAt": "2026-04-23T03:20:20.781Z",
+      "status": "ok",
+      "listingsFound": 4,
+      "pagesScraped": [
+        "https://www.myrental.ca/apartments-for-rent/18-erskine-ave"
+      ]
+    },
+    {
+      "propertyId": "e18hteen",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:19.669Z",
+      "finishedAt": "2026-04-23T03:20:20.122Z",
+      "status": "ok",
+      "listingsFound": 4,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/18-erskine-ave-toronto"
+      ]
+    },
+    {
+      "propertyId": "e18hteen",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:19.670Z",
+      "finishedAt": "2026-04-23T03:20:20.548Z",
+      "status": "ok",
+      "listingsFound": 15,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/e18hteen/CkGFxt/"
+      ]
+    },
+    {
+      "propertyId": "e18hteen",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:19.670Z",
+      "finishedAt": "2026-04-23T03:20:19.670Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for e18hteen."
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:21.063Z",
+      "finishedAt": "2026-04-23T03:20:22.422Z",
+      "status": "ok",
+      "listingsFound": 4,
+      "pagesScraped": [
+        "https://thecornerrentals.com/suites",
+        "https://thecornerrentals.com"
+      ]
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:21.066Z",
+      "finishedAt": "2026-04-23T03:20:22.225Z",
+      "status": "ok",
+      "listingsFound": 34,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/the-corner-on-broadway"
+      ]
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:21.067Z",
+      "finishedAt": "2026-04-23T03:20:22.024Z",
+      "status": "ok",
+      "listingsFound": 24,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/the-corner-on-broadway/BkcSQb/"
+      ]
+    },
+    {
+      "propertyId": "corner-on-broadway",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:21.067Z",
+      "finishedAt": "2026-04-23T03:20:21.752Z",
+      "status": "failed",
+      "listingsFound": 0,
+      "pagesScraped": [
+        "https://liv.rent/building/39745/the-corner-on-broadway-apartment-building-223-redpath-ave-toronto-on"
+      ],
+      "error": "Scraped liv-rent page but parser found no units."
+    },
+    {
+      "propertyId": "akoya-living",
+      "source": "official-site",
+      "startedAt": "2026-04-23T03:20:21.067Z",
+      "finishedAt": "2026-04-23T03:20:21.962Z",
+      "status": "ok",
+      "listingsFound": 6,
+      "pagesScraped": [
+        "https://www.akoyaliving.ca/suites",
+        "https://www.akoyaliving.ca"
+      ]
+    },
+    {
+      "propertyId": "akoya-living",
+      "source": "rentals-ca",
+      "startedAt": "2026-04-23T03:20:21.068Z",
+      "finishedAt": "2026-04-23T03:20:22.189Z",
+      "status": "ok",
+      "listingsFound": 25,
+      "pagesScraped": [
+        "https://rentals.ca/toronto/akoya"
+      ]
+    },
+    {
+      "propertyId": "akoya-living",
+      "source": "zillow-ca",
+      "startedAt": "2026-04-23T03:20:21.068Z",
+      "finishedAt": "2026-04-23T03:20:21.539Z",
+      "status": "ok",
+      "listingsFound": 25,
+      "pagesScraped": [
+        "https://www.zillow.com/apartments/toronto-on/akoya/BMJ7xv/"
+      ]
+    },
+    {
+      "propertyId": "akoya-living",
+      "source": "liv-rent",
+      "startedAt": "2026-04-23T03:20:21.069Z",
+      "finishedAt": "2026-04-23T03:20:21.069Z",
+      "status": "skipped",
+      "listingsFound": 0,
+      "error": "No liv-rent URL configured for akoya-living."
+    }
+  ],
+  "lastScrapedAt": "2026-04-23T03:20:22.424Z"
+}
