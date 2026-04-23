@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { tmpdir } from "node:os";
 import { randomBytes, scryptSync, timingSafeEqual } from "node:crypto";
 import type { Role } from "./session-config";
 
@@ -23,11 +24,14 @@ export type StoredUser = {
   createdAt: string;
 };
 
-// On Vercel the app's working directory is read-only, but /tmp is writable
-// (per serverless instance). Locally we keep using .data/ in the repo.
-const DATA_DIR = process.env.VERCEL
-  ? path.join("/tmp", "fitzrovia-data")
-  : path.join(process.cwd(), ".data");
+// In production the app's working directory is typically read-only on
+// serverless hosts (Vercel, Netlify, Lambda, etc.), so we write to the OS
+// temp dir. In development we keep using .data/ in the repo so data
+// persists across restarts.
+const DATA_DIR =
+  process.env.NODE_ENV === "development"
+    ? path.join(process.cwd(), ".data")
+    : path.join(tmpdir(), "fitzrovia-data");
 const USERS_FILE = path.join(DATA_DIR, "users.json");
 
 const SCRYPT_KEYLEN = 64;

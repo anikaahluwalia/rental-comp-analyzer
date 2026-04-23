@@ -43,18 +43,29 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  // First boot only: make sure the demo accounts exist.
-  await ensureSeedUsers();
+  try {
+    // First boot only: make sure the demo accounts exist.
+    await ensureSeedUsers();
 
-  const user = await verifyUser(email, password);
-  if (!user) {
-    // Generic message — don't leak whether the email exists.
+    const user = await verifyUser(email, password);
+    if (!user) {
+      // Generic message — don't leak whether the email exists.
+      return NextResponse.json(
+        { error: "Incorrect email or password." },
+        { status: 401 },
+      );
+    }
+
+    await setSession({ email: user.email, role: user.role });
+    return NextResponse.json({ ok: true, role: user.role });
+  } catch (err) {
+    // Surface the real reason to the client (and to Vercel logs) instead
+    // of letting it fall through to a generic HTML 500.
+    const message = err instanceof Error ? err.message : String(err);
+    console.error("[login] unexpected error:", err);
     return NextResponse.json(
-      { error: "Incorrect email or password." },
-      { status: 401 },
+      { error: `Server error: ${message}` },
+      { status: 500 },
     );
   }
-
-  await setSession({ email: user.email, role: user.role });
-  return NextResponse.json({ ok: true, role: user.role });
 }

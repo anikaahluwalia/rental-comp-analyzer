@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { tmpdir } from "node:os";
 import type { Listing, ScrapeRun } from "./types";
 import { PROPERTIES } from "./properties";
 import { scrapeAll } from "./sources";
@@ -41,10 +42,12 @@ declare global {
   var __fitzroviaListingsStore: Store | undefined;
 }
 
-// Vercel: writable only under /tmp. Locally: .data/ in the repo.
-const SNAPSHOT_PATH = process.env.VERCEL
-  ? path.join("/tmp", "fitzrovia-data", "listings.json")
-  : path.join(process.cwd(), ".data", "listings.json");
+// Production (e.g. Vercel) has a read-only cwd — write to the OS temp dir.
+// Dev keeps using .data/ in the repo so snapshots persist across restarts.
+const SNAPSHOT_PATH =
+  process.env.NODE_ENV === "development"
+    ? path.join(process.cwd(), ".data", "listings.json")
+    : path.join(tmpdir(), "fitzrovia-data", "listings.json");
 
 function emptyStore(): Store {
   return {
