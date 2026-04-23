@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html,
+  body {
+    background: #fafaf7;
+    color: #0b0b0b;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: #e84a1e;
+    color: #fafaf7;
+  }
+}
+
+@layer components {
+  /* Understated form input — just a bottom rule */
+  .field-input {
+    @apply w-full border-0 border-b border-ink/20 bg-transparent px-0 py-3 text-lg text-ink placeholder:text-ash/50 transition-colors duration-200;
+    @apply focus:border-clay focus:outline-none focus:ring-0;
+  }
+
+  .field-label {
+    @apply text-xs font-semibold uppercase tracking-[0.25em] text-ash;
+  }
+
+  /* Primary CTA — solid clay/tomato matching the 'RENT WITH US' button. */
+  .btn-primary {
+    @apply inline-flex w-full items-center justify-center gap-3 bg-clay px-6 py-4 text-sm font-semibold uppercase tracking-[0.25em] text-ink transition-colors duration-200 hover:bg-clay-deep hover:text-paper disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  /* Secondary CTA — outlined black matching the 'MENU' / filter pills. */
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-3 border border-ink bg-transparent px-5 py-3 text-xs font-semibold uppercase tracking-[0.25em] text-ink transition-colors hover:bg-ink hover:text-paper;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.25em];
+  }
+
+  /* Fitzrovia signature display headline — Inter black, deep uppercase,
+     tight tracking, razor-close leading. The "FIND YOUR HOME" treatment.
+     Declared with raw CSS (not @apply) so the cascade can't quietly
+     substitute the italic serif from a parent rule. */
+  .headline {
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif !important;
+    font-weight: 900 !important;
+    font-style: normal !important;
+    text-transform: uppercase !important;
+    color: #0b0b0b;
+    letter-spacing: -0.02em;
+    line-height: 0.9;
+  }
+
+  /* Italic Playfair used for small labels — "Filter By", "Community",
+     "The Collection". Fitzrovia uses this exclusively for micro-copy,
+     never for headlines. */
+  .label-italic {
+    @apply font-serif italic text-ash;
+  }
+
+  /* Clean card/table surface — white on near-white canvas with a hairline
+     rule. Fitzrovia's site is almost entirely white; the listing table
+     uses only horizontal rules. */
+  .surface {
+    @apply border border-line bg-white;
+  }
+
+  /* Underline accent used on active links and primary actions. */
+  .clay-underline {
+    @apply decoration-clay decoration-2 underline underline-offset-[6px];
+  }
+}
