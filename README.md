@@ -128,7 +128,7 @@ If I had another week:
 
 ---
 
-Thanks for reading! 
+Thanks for reading! Here is the link: https://rental-comp-analyzer-brss.onrender.com
 
 ---
 
