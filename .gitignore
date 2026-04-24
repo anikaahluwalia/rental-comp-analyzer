@@ -36,5 +36,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-Fitzrovia-Rental-Comp-Deck.pptx
+# slide deck + interview prep notes — not for the repo
+*.pptx
 ~$*.pptx
+tech-stack-notes.md
+tech-stack-rationale.md
