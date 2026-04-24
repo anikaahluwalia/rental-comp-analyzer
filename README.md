@@ -1,6 +1,6 @@
-# 🏙️ Fitzrovia · Rental Comp Intelligence
+# 🏙️ Rental Compeition Web Scraper
 
-> A live dashboard that tells Fitzrovia what their competitors are charging for rent ... in real time.
+> A live dashboard that tells real estate companies what their competitors are charging for rent ... in real time.
 
 Built by Anika Ahluwalia
 
