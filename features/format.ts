@@ -36,10 +36,17 @@ export function relativeTime(iso: string): string {
   return `${days} day${days === 1 ? "" : "s"} ago`;
 }
 
-/** Timezone-aware timestamp for tooltip / detail views. */
+/**
+ * Timezone-aware timestamp for tooltip / detail views.
+ *
+ * Pinned to Toronto because this runs on the server (Render, UTC) and we
+ * don't want timestamps jumping ahead by 4–5 hours on PDFs or server-rendered
+ * pages.
+ */
 export function formatTimestamp(iso: string): string {
   return new Date(iso).toLocaleString("en-CA", {
     dateStyle: "medium",
     timeStyle: "short",
+    timeZone: "America/Toronto",
   });
 }

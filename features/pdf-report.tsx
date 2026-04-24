@@ -292,10 +292,14 @@ function BrandHeader({ rightSlot }: { rightSlot?: React.ReactNode }) {
 // --- Helpers -----------------------------------------------------------
 
 function formatDateLong(d: Date): string {
+  // Pin to Toronto — the PDF renders on the server (Render, UTC) so without
+  // an explicit timeZone we'd get UTC dates, which flip a day ahead after
+  // ~8 PM Toronto time.
   return d.toLocaleDateString("en-CA", {
     year: "numeric",
     month: "long",
     day: "numeric",
+    timeZone: "America/Toronto",
   });
 }
 
@@ -729,6 +733,7 @@ export function RentalCompReport({
             {new Date(lastScrapedAt).toLocaleString("en-CA", {
               dateStyle: "medium",
               timeStyle: "short",
+              timeZone: "America/Toronto",
             })}
           </Text>
           <View style={styles.titleRule} />
