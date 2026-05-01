@@ -29,7 +29,7 @@ export function ExportPdfButton() {
       const stamp = new Date().toISOString().slice(0, 10);
       const a = document.createElement("a");
       a.href = url;
-      a.download = `fitzrovia-rental-comp-${stamp}.pdf`;
+      a.download = `midtown-rental-comp-${stamp}.pdf`;
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);

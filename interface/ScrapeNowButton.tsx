@@ -4,7 +4,7 @@
  * The "Scrape now" button in the dashboard header.
  *
  * Clicking it starts a fresh check of all the rental websites for
- * every Fitzrovia building. A real scrape takes about 2–3 minutes,
+ * every tracked building. A real scrape takes about 2–3 minutes,
  * so the button shows "Scraping…" and stays disabled the whole time.
  * When it finishes, the dashboard numbers update automatically
  * without a page reload.

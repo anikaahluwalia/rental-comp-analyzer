@@ -1,7 +1,7 @@
 /**
  * The shared wrapper used by every dashboard page.
  *
- * Builds the top header — Fitzrovia logo on the left, tab navigation
+ * Builds the top header — brand mark on the left, tab navigation
  * in the middle (Overview / Compare / Ask), and the current user's
  * email + sign-out button on the right.
  *
@@ -13,7 +13,7 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSession } from "@/features/auth";
-import { FitzroviaMark } from "@/interface/FitzroviaMark";
+import { BrandMark } from "@/interface/BrandMark";
 import { SignOutButton } from "@/interface/SignOutButton";
 import { DashboardNav } from "@/interface/DashboardNav";
 import { clayBrandStripe, COLORS, labelItalic } from "@/features/ui-style";
@@ -28,7 +28,7 @@ export default async function DashboardLayout({
 
   return (
     <div className="min-h-screen bg-paper">
-      {/* Clay brand stripe — anchors the page to the Fitzrovia accent color. */}
+      {/* Clay brand stripe — anchors the page to the editorial accent color. */}
       <div style={clayBrandStripe} />
       <header className="sticky top-0 z-10 border-b border-line bg-paper/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5 sm:px-10">
@@ -36,10 +36,10 @@ export default async function DashboardLayout({
             href="/dashboard"
             className="flex items-center gap-3 text-ink"
           >
-            <FitzroviaMark className="h-8 w-8" />
+            <BrandMark className="h-8 w-8" />
             <div className="text-sm">
               <div className="font-black tracking-[0.08em] text-ink">
-                FITZROVIA
+                MIDTOWN COMP
               </div>
               <div
                 style={{ ...labelItalic, fontSize: 11 }}

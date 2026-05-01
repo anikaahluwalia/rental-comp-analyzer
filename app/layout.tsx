@@ -3,8 +3,7 @@
  *
  * Loads the two brand fonts (Inter and Playfair Display) and sets the
  * browser tab title. Also tells search engines not to list this app in
- * their results, it's an internal tool for the Fitzrovia team, not a
- * public website.
+ * their results — it's an internal tool, not a public website.
  */
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
@@ -24,9 +23,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Fitzrovia · Rental Comp Intelligence",
+  title: "Midtown Rental Comp",
   description:
-    "Asset management portal for tracking competitive rental pricing across Midtown Toronto.",
+    "Internal portal for tracking competitive rental pricing across Midtown Toronto.",
   robots: { index: false, follow: false },
 };
 

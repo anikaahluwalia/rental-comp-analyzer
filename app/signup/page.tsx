@@ -4,9 +4,8 @@
  * If the user is already signed in, they skip this screen and go
  * straight to the dashboard. Otherwise they get the signup form.
  *
- * One rule worth knowing: anyone signing up with a @fitzrovia.ca email
- * is automatically given the "analyst" role (can trigger scrapes and
- * export reports). Everyone else starts as a read-only viewer.
+ * Everyone who signs up starts as a read-only viewer. Admin and analyst
+ * roles are invite-only / provisioned manually.
  *
  * The page is designed to match the sign-in screen visually so the
  * onboarding flow feels seamless.
@@ -15,7 +14,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSession } from "@/features/auth";
-import { FitzroviaMark } from "@/interface/FitzroviaMark";
+import { BrandMark } from "@/interface/BrandMark";
 import { SignupForm } from "@/interface/SignupForm";
 import {
   COLORS,
@@ -40,10 +39,10 @@ export default async function SignupPage() {
         {/* LEFT — brand + form */}
         <section className="flex flex-col justify-between px-8 py-10 sm:px-14 lg:px-20 lg:py-14">
           <header className="flex items-center gap-3 text-ink">
-            <FitzroviaMark className="h-9 w-9" />
+            <BrandMark className="h-9 w-9" />
             <div className="text-sm">
               <div className="font-black tracking-[0.08em] text-ink">
-                FITZROVIA
+                MIDTOWN COMP
               </div>
               <div style={{ ...labelItalic, fontSize: 11 }}>
                 Rental Comp
@@ -87,7 +86,7 @@ export default async function SignupPage() {
           </div>
 
           <footer className="flex items-center justify-between text-[11px] uppercase tracking-[0.25em] text-ash">
-            <span>© Fitzrovia · Toronto</span>
+            <span>© Midtown Rental Comp · Toronto</span>
             <span
               style={{ color: COLORS.clay }}
               className="hidden sm:inline"

@@ -33,7 +33,7 @@ import { PROPERTIES } from "./properties";
  * should read like a pricing deliverable, not a tool writeup.
  */
 
-// --- Brand palette — matched against the Fitzrovia Intern Case Study PDF.
+// --- Brand palette — editorial paper / ink / clay tokens.
 // Navy is the structural primary (H1, H2, table headers, wordmark); the
 // coral "clay" is used sparingly for sub-heading accents, the F-mark bottom
 // band, and chart highlights. White canvas, striped table rows.
@@ -214,22 +214,22 @@ const styles = StyleSheet.create({
   },
 });
 
-// --- Fitzrovia F-mark ------------------------------------------------
+// --- Brand mark ------------------------------------------------------
 //
-// Drawn using primitive Views to approximate the logo from the case study:
-// a chunky navy "F" whose bottom bar is coral clay. Not pixel-perfect,
-// but carries the brand signal on every page.
+// Drawn using primitive Views: a chunky navy "M" whose bottom band is
+// coral clay. Carries the editorial brand signal on every page.
 
-function FitzroviaLogoMark({ size = 32 }: { size?: number }) {
+function BrandLogoMark({ size = 32 }: { size?: number }) {
   const stem = Math.max(5, Math.round(size * 0.19));
   const bar = Math.max(5, Math.round(size * 0.17));
-  const topBarW = Math.round(size * 0.82);
-  const midBarW = Math.round(size * 0.62);
-  const bottomBarW = Math.round(size * 0.68);
+  const rightStemX = size - stem;
+  const innerStem = Math.max(4, Math.round(size * 0.12));
+  const innerLeftX = Math.round(size * 0.32);
+  const innerRightX = Math.round(size * 0.56);
 
   return (
     <View style={{ width: size, height: size, position: "relative" }}>
-      {/* Vertical stem */}
+      {/* Left stem */}
       <View
         style={{
           position: "absolute",
@@ -240,25 +240,47 @@ function FitzroviaLogoMark({ size = 32 }: { size?: number }) {
           backgroundColor: BRAND.navy,
         }}
       />
-      {/* Top bar */}
+      {/* Right stem */}
+      <View
+        style={{
+          position: "absolute",
+          left: rightStemX,
+          top: 0,
+          width: stem,
+          height: size,
+          backgroundColor: BRAND.navy,
+        }}
+      />
+      {/* Top connecting bar */}
       <View
         style={{
           position: "absolute",
           left: 0,
           top: 0,
-          width: topBarW,
+          width: size,
           height: bar,
           backgroundColor: BRAND.navy,
         }}
       />
-      {/* Middle bar */}
+      {/* Inner left peak (the V of the M) */}
       <View
         style={{
           position: "absolute",
-          left: 0,
-          top: Math.round(size * 0.42),
-          width: midBarW,
-          height: bar,
+          left: innerLeftX,
+          top: bar,
+          width: innerStem,
+          height: Math.round(size * 0.45),
+          backgroundColor: BRAND.navy,
+        }}
+      />
+      {/* Inner right peak */}
+      <View
+        style={{
+          position: "absolute",
+          left: innerRightX,
+          top: bar,
+          width: innerStem,
+          height: Math.round(size * 0.45),
           backgroundColor: BRAND.navy,
         }}
       />
@@ -268,7 +290,7 @@ function FitzroviaLogoMark({ size = 32 }: { size?: number }) {
           position: "absolute",
           left: 0,
           bottom: 0,
-          width: bottomBarW,
+          width: size,
           height: bar,
           backgroundColor: BRAND.clay,
         }}
@@ -281,8 +303,8 @@ function BrandHeader({ rightSlot }: { rightSlot?: React.ReactNode }) {
   return (
     <View style={styles.header}>
       <View style={styles.brandRow}>
-        <FitzroviaLogoMark size={26} />
-        <Text style={styles.brandMark}>FITZROVIA</Text>
+        <BrandLogoMark size={26} />
+        <Text style={styles.brandMark}>MIDTOWN COMP</Text>
       </View>
       {rightSlot}
     </View>
@@ -695,8 +717,8 @@ export function RentalCompReport({
 
   return (
     <Document
-      title={`Fitzrovia Rental Comp — ${formatDateLong(generatedAt)}`}
-      author="Fitzrovia Asset Management"
+      title={`Midtown Rental Comp — ${formatDateLong(generatedAt)}`}
+      author="Midtown Rental Comp"
       subject="Midtown Toronto competitive set"
     >
       {/* --- Page 1: Cover + executive summary ------------------------ */}
@@ -778,7 +800,7 @@ export function RentalCompReport({
         </View>
 
         <View style={styles.footerBar} fixed>
-          <Text>Fitzrovia Rental Comp · Confidential</Text>
+          <Text>Midtown Rental Comp · Confidential</Text>
           <Text
             render={({ pageNumber, totalPages }) =>
               `Page ${pageNumber} of ${totalPages}`
@@ -995,7 +1017,7 @@ export function RentalCompReport({
         </View>
 
         <View style={styles.footerBar} fixed>
-          <Text>Fitzrovia Rental Comp · Confidential</Text>
+          <Text>Midtown Rental Comp · Confidential</Text>
           <Text
             render={({ pageNumber, totalPages }) =>
               `Page ${pageNumber} of ${totalPages}`
@@ -1332,7 +1354,7 @@ export function RentalCompReport({
         ))}
 
         <View style={styles.footerBar} fixed>
-          <Text>Fitzrovia Rental Comp · Confidential</Text>
+          <Text>Midtown Rental Comp · Confidential</Text>
           <Text
             render={({ pageNumber, totalPages }) =>
               `Page ${pageNumber} of ${totalPages}`

@@ -61,7 +61,7 @@ export function LoginForm() {
           type="email"
           autoComplete="email"
           required
-          placeholder="analyst@fitzrovia.ca"
+          placeholder="analyst@midtowncomp.com"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           className="field-input"
@@ -107,7 +107,7 @@ export function LoginForm() {
 
       <div className="space-y-3 border-t border-line pt-6">
         <p className="text-xs tracking-[0.1em] text-ash">
-          New to Fitzrovia?{" "}
+          New here?{" "}
           <Link
             href="/signup"
             style={{ color: COLORS.clay, textDecorationColor: COLORS.clay }}
@@ -123,7 +123,7 @@ export function LoginForm() {
           </summary>
           <div className="mt-3 space-y-1 font-mono text-[11px]">
             <div>
-              <span style={{ color: COLORS.clay }}>admin@fitzrovia.ca</span> · admin123
+              <span style={{ color: COLORS.clay }}>admin@midtowncomp.com</span> · admin123
             </div>
           </div>
         </details>

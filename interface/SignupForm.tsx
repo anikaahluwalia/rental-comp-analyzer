@@ -74,11 +74,9 @@ export function SignupForm() {
           disabled={loading}
         />
         <p className="text-[11px] leading-relaxed text-ash/80">
-          A{" "}
-          <span style={{ color: COLORS.clay, fontWeight: 700 }}>@fitzrovia.ca</span>{" "}
-          address is auto-promoted to{" "}
-          <span style={{ color: COLORS.clay, fontWeight: 700 }}>analyst</span>.
-          Others start as read-only viewers.
+          New accounts start as read-only{" "}
+          <span style={{ color: COLORS.clay, fontWeight: 700 }}>viewers</span>.
+          Admin and analyst access are invite-only.
         </p>
       </div>
 

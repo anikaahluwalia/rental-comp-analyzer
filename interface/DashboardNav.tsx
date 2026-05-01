@@ -5,7 +5,7 @@
  *
  * Three tabs — Overview, Compare, Ask — each linking to its page.
  * The tab matching whichever page you're currently on gets highlighted
- * in the Fitzrovia clay colour with an underline, so you always know
+ * in the clay accent colour with an underline, so you always know
  * where you are.
  */
 import Link from "next/link";

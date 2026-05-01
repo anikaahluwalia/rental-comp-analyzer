@@ -31,7 +31,7 @@ export type StoredUser = {
 const DATA_DIR =
   process.env.NODE_ENV === "development"
     ? path.join(process.cwd(), ".data")
-    : path.join(tmpdir(), "fitzrovia-data");
+    : path.join(tmpdir(), "midtown-comp-data");
 const USERS_FILE = path.join(DATA_DIR, "users.json");
 
 const SCRYPT_KEYLEN = 64;
@@ -119,10 +119,11 @@ export async function createUser(
     return { ok: false, error: "email_taken" };
   }
 
-  // Role assignment: @fitzrovia.ca gets analyst; everyone else viewer.
-  // Override allowed via input (used by the seed script).
-  const role: Role =
-    input.role ?? (email.endsWith("@fitzrovia.ca") ? "analyst" : "viewer");
+  // Role assignment: every public signup starts as a read-only viewer.
+  // Admin / analyst roles are invite-only — provisioned by the seed script
+  // or a manual admin action. The `input.role` override is used by the
+  // seed script and the trusted invite path.
+  const role: Role = input.role ?? "viewer";
 
   const salt = randomBytes(16).toString("hex");
   const hash = hashPassword(input.password, salt);
@@ -161,10 +162,10 @@ export async function verifyUser(
  * untouched.
  */
 const SEED_USERS: Array<{ email: string; password: string; role: Role }> = [
-  { email: "admin@fitzrovia.ca", password: "admin123", role: "admin" },
+  { email: "admin@midtowncomp.com", password: "admin123", role: "admin" },
   {
-    email: "analyst@fitzrovia.ca",
-    password: "fitzrovia-analyst-2026",
+    email: "analyst@midtowncomp.com",
+    password: "analyst-demo-2026",
     role: "analyst",
   },
   {

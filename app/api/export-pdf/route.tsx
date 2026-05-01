@@ -60,7 +60,7 @@ export async function GET() {
   );
 
   const stamp = new Date().toISOString().slice(0, 10);
-  const filename = `fitzrovia-rental-comp-${stamp}.pdf`;
+  const filename = `midtown-rental-comp-${stamp}.pdf`;
 
   return new NextResponse(new Uint8Array(buffer), {
     status: 200,

@@ -58,11 +58,11 @@ Then open 👉 [http://localhost:3000](http://localhost:3000)
 
 | Email | Password | What they can do |
 | --- | --- | --- |
-| `admin@fitzrovia.ca` | `fitzrovia-admin-2026` | Everything |
-| `analyst@fitzrovia.ca` | `fitzrovia-analyst-2026` | Scrape + view + export |
+| `admin@midtowncomp.com` | `admin123` | Everything |
+| `analyst@midtowncomp.com` | `analyst-demo-2026` | Scrape + view + export |
 | `viewer@example.com` | `viewer-demo-2026` | View + export PDF |
 
-Or sign up with your own email at `/signup`. Any `@fitzrovia.ca` email becomes an analyst automatically; everyone else starts as a viewer.
+Or sign up with your own email at `/signup`. New accounts start as read-only viewers; admin and analyst access are invite-only.
 
 ---
 

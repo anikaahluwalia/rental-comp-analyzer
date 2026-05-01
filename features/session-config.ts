@@ -6,7 +6,7 @@
  * APIs so it can be used in both.
  */
 
-export const SESSION_COOKIE = "fitzrovia_session";
+export const SESSION_COOKIE = "midtown_comp_session";
 export const SESSION_TTL_SECONDS = 60 * 60 * 24 * 7; // 1 week
 
 /**

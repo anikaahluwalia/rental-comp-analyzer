@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Fitzrovia brand palette — matched against fitzrovia.ca. Near-white
+        // Editorial brand palette — paper / ink / clay. Near-white
         // paper canvas, near-black ink, tomato-red "clay" as the single
         // chromatic accent (CTAs, active underlines). Forest + bronze are
         // retained as tertiary accents for data surfaces (chart bars, etc.)

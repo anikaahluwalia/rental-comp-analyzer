@@ -1,14 +1,14 @@
 import type { Property } from "./types";
 
 /**
- * The ten target buildings per the case-study brief.
+ * The ten target buildings — Midtown Toronto purpose-built rental comp set.
  *
- * Primary source of truth is each building's own official website, per
- * Fitzrovia's guidance. We *also* pull from rental aggregators as a
- * secondary read so a building still shows pricing even when its own
- * marketing site returns zero (operator hasn't updated, JS widget failed
- * to render, Cloudflare block, etc.). The coordinator in
- * `features/sources/index.ts` dedupes across sources.
+ * Primary source of truth is each building's own official website. We
+ * *also* pull from rental aggregators as a secondary read so a building
+ * still shows pricing even when its own marketing site returns zero
+ * (operator hasn't updated, JS widget failed to render, Cloudflare block,
+ * etc.). The coordinator in `features/sources/index.ts` dedupes across
+ * sources.
  *
  * Each entry carries:
  *   - `siteUrl`        the marketing site root, scraped to catch banner

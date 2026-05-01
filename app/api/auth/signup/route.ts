@@ -8,9 +8,10 @@ const MIN_PASSWORD_LENGTH = 8;
 /**
  * POST /api/auth/signup
  *
- * Creates a new account with a scrypt-hashed password. Role is assigned
- * automatically: @fitzrovia.ca addresses become 'analyst', everyone else
- * 'viewer'. Admin must be promoted manually (out of scope for the demo).
+ * Creates a new account with a scrypt-hashed password. Every public
+ * signup starts as a read-only 'viewer'. Admin and analyst roles are
+ * invite-only — promoted manually via the seed script (out of scope for
+ * the demo).
  *
  * On success, signs the user in immediately.
  */

@@ -14,8 +14,7 @@ export const UNIT_TYPES: UnitType[] = ["Bachelor", "1-Bed", "2-Bed", "3-Bed"];
  * Where a listing came from. Tagged on every Listing for audit + UI labelling.
  *
  *  - "official-site" the building's own marketing website (primary source
- *                    of truth per Fitzrovia's guidance — use the operator's
- *                    page, not aggregators)
+ *                    of truth — use the operator's page, not aggregators)
  *  - "rentals-ca"    rentals.ca listing for the same building (secondary
  *                    coverage — catches inventory the building site may not
  *                    publish, and is useful when the operator site returns

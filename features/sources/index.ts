@@ -3,7 +3,7 @@
  *
  * For each property, we pull pricing from up to four sources:
  *   1. The building's own official marketing site (primary — source of
- *      truth per Fitzrovia's guidance).
+ *      truth).
  *   2. rentals.ca        (if `property.rentalsCaUrl` is configured)
  *   3. zillow.ca         (if `property.zillowUrl` is configured)
  *   4. liv.rent          (if `property.livRentUrl` is configured)

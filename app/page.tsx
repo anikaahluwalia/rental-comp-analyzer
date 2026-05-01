@@ -10,7 +10,7 @@
 import Image from "next/image";
 import { redirect } from "next/navigation";
 import { getSession } from "@/features/auth";
-import { FitzroviaMark } from "@/interface/FitzroviaMark";
+import { BrandMark } from "@/interface/BrandMark";
 import { LoginForm } from "@/interface/LoginForm";
 import {
   COLORS,
@@ -37,10 +37,10 @@ export default async function LoginPage() {
         {/* LEFT — brand + form */}
         <section className="flex flex-col justify-between px-8 py-10 sm:px-14 lg:px-20 lg:py-14">
           <header className="flex items-center gap-3 text-ink">
-            <FitzroviaMark className="h-9 w-9" />
+            <BrandMark className="h-9 w-9" />
             <div className="text-sm">
               <div className="font-black tracking-[0.08em] text-ink">
-                FITZROVIA
+                MIDTOWN COMP
               </div>
               <div style={{ ...labelItalic, fontSize: 11 }}>
                 Rental Comp
@@ -53,7 +53,7 @@ export default async function LoginPage() {
               style={{ ...displayHeadline, lineHeight: 0.95 }}
               className="headline text-[3.75rem] sm:text-[5rem] lg:text-[6.25rem]"
             >
-              Fitzrovia —
+              Midtown —
               <br />
               rental
               <br />
@@ -73,7 +73,7 @@ export default async function LoginPage() {
           </div>
 
           <footer className="flex items-center justify-between text-[11px] uppercase tracking-[0.25em] text-ash">
-            <span>© Fitzrovia · Toronto</span>
+            <span>© Midtown Rental Comp · Toronto</span>
             <span
               style={{ color: COLORS.clay }}
               className="hidden sm:inline"

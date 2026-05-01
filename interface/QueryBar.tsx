@@ -3,7 +3,7 @@
 /**
  * The "Ask the market" question box on the Ask page.
  *
- * Type a question about the Fitzrovia portfolio — like "cheapest 2-bed
+ * Type a question about the comp set — like "cheapest 2-bed
  * under $3500" or "which building has the biggest rent drop" — and hit
  * Ask. An answer card appears below with a headline, supporting numbers,
  * links to any buildings mentioned, and a few suggested follow-up

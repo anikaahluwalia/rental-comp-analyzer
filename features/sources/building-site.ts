@@ -6,8 +6,8 @@ import { extractIncentives } from "./extract-incentives";
 /**
  * Scrape a single building's own official marketing site.
  *
- * Fitzrovia's guidance: source pricing from each property's own website
- * rather than from broad rental aggregators. This module does that.
+ * Source pricing from each property's own website rather than relying
+ * solely on broad rental aggregators. This module does that.
  *
  * Flow:
  *   1. Ask Firecrawl /map for every URL on the site. This is one cheap

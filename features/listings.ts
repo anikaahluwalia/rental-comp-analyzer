@@ -40,7 +40,7 @@ type Store = {
 // between requests.
 declare global {
   // eslint-disable-next-line no-var
-  var __fitzroviaListingsStore: Store | undefined;
+  var __rentalCompListingsStore: Store | undefined;
 }
 
 // Production (e.g. Vercel) has a read-only cwd — write to the OS temp dir.
@@ -48,7 +48,7 @@ declare global {
 const SNAPSHOT_PATH =
   process.env.NODE_ENV === "development"
     ? path.join(process.cwd(), ".data", "listings.json")
-    : path.join(tmpdir(), "fitzrovia-data", "listings.json");
+    : path.join(tmpdir(), "midtown-comp-data", "listings.json");
 
 function emptyStore(): Store {
   return {
@@ -110,15 +110,15 @@ async function writeSnapshot(store: Store): Promise<void> {
 }
 
 function ensureStore(): Store {
-  if (!globalThis.__fitzroviaListingsStore) {
+  if (!globalThis.__rentalCompListingsStore) {
     // Cold-boot priority:
     //   1. on-disk snapshot (a fresher scrape written since boot)
     //   2. bundled seed    (consistent baseline across every Vercel instance)
     //   3. empty           (never — we always have a seed)
-    globalThis.__fitzroviaListingsStore =
+    globalThis.__rentalCompListingsStore =
       loadSnapshotSync() ?? seedStore() ?? emptyStore();
   }
-  return globalThis.__fitzroviaListingsStore;
+  return globalThis.__rentalCompListingsStore;
 }
 
 export function getListings(): Listing[] {
@@ -162,7 +162,7 @@ export async function triggerScrape(): Promise<{
     runs,
     lastScrapedAt,
   };
-  globalThis.__fitzroviaListingsStore = store;
+  globalThis.__rentalCompListingsStore = store;
 
   // Fire-and-forget disk write so the HTTP response doesn't wait on FS.
   void writeSnapshot(store);
