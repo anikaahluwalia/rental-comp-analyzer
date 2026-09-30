@@ -6,10 +6,9 @@ import { formatCAD, formatPricePerSqft, formatSqft } from "./format";
 /**
  * Natural-language query layer for the dashboard.
  *
- * **This is a deterministic local parser, not an LLM.** The brief calls
- * out an LLM-backed ask-bar as a stretch goal; we've built the plumbing
- * (typed intent → typed answer) so swapping in Claude + tool-use is a
- * drop-in replacement — see `docs/nl-query-upgrade.md` in the roadmap.
+ * This deterministic local parser is retained by the research layer as
+ * a no-key/provider-failure fallback. Claude orchestration lives in
+ * research-agent.ts; evidence and confidence are attached in research.ts.
  *
  * Supported intents today:
  *   - cheapest / most expensive X                (min/max rent)
@@ -27,6 +26,12 @@ export type AnswerCitation = {
 };
 
 export type Answer = {
+  confidence?: import("./research").AnswerConfidence;
+  sources?: import("./research").Evidence[];
+  conflicts?: import("./conflicts").DataConflict[];
+  warnings?: string[];
+  trace?: import("./research").ResearchTrace;
+  mode?: "claude" | "deterministic";
   intent: string;
   headline: string;
   detail?: string;
@@ -41,6 +46,9 @@ export type Answer = {
 };
 
 const INTENT_EXAMPLES = [
+  "Which 2-bedroom is actually cheapest after incentives?",
+  "Which buildings have conflicting pricing information?",
+  "I'm choosing between Parker and Whitney. Compare effective rent, square footage, incentives, and tell me what information is still missing.",
   "Cheapest 2-Bed",
   "Best $/sqft 1-Bed",
   "Average rent for Bachelor",
@@ -52,7 +60,7 @@ const INTENT_EXAMPLES = [
 
 export const QUERY_SUGGESTIONS = INTENT_EXAMPLES;
 
-function detectUnitType(input: string): UnitType | null {
+export function detectUnitType(input: string): UnitType | null {
   const norm = input.toLowerCase();
   if (/\bbach(elor)?\b|\bstudio\b/.test(norm)) return "Bachelor";
   if (/\b3[- ]?bed(room)?s?\b|\bthree[- ]?bed(room)?s?\b/.test(norm))
@@ -64,7 +72,7 @@ function detectUnitType(input: string): UnitType | null {
   return null;
 }
 
-function detectDollar(input: string): number | null {
+export function detectDollar(input: string): number | null {
   // Accept $3500, $3,500, 3500, 3.5k
   const kMatch = input.match(/\$?\s*(\d+(?:\.\d+)?)\s*k\b/i);
   if (kMatch) return Math.round(parseFloat(kMatch[1]) * 1000);
@@ -126,7 +134,7 @@ function answerCheapestOrMost(
   return {
     intent: `${mode}-rent`,
     headline: `${propertyName(top.propertyId)} — ${formatCAD(top.rent)}${top.sqft ? ` / ${formatSqft(top.sqft)}` : ""}${top.incentive ? ` · ${top.incentive}` : ""}`,
-    detail: `The ${verb} ${label} in today's snapshot.`,
+    detail: `The ${verb} ${label} in the stored snapshot.`,
     rows: runners.map((l) => ({
       label: propertyName(l.propertyId),
       value: formatCAD(l.rent),
@@ -228,9 +236,9 @@ function answerIncentives(listings: Listing[]): Answer {
   if (withIncentive.length === 0) {
     return {
       intent: "incentives",
-      headline: "No active incentives in today's snapshot.",
+      headline: "No incentive information in the current snapshot.",
       detail:
-        "Headline rents are holding. Watch for first-to-break signals in the 2-Bed cohort where days-on-market is typically longest.",
+        "Missing incentive text does not establish that a building offers no incentives.",
     };
   }
 
@@ -336,7 +344,7 @@ function answerAtProperty(
   if (subset.length === 0) {
     return {
       intent: "at-building",
-      headline: `No available units at ${prop.name} in today's snapshot.`,
+      headline: `No available units at ${prop.name} in the stored snapshot.`,
       citations: [{ propertyId: prop.id, propertyName: prop.name }],
     };
   }

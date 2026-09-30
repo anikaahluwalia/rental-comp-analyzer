@@ -85,16 +85,22 @@ export async function scrapeBuildingSite(
     };
   }
 
-  const combinedMarkdown = markdownChunks.join("\n\n---\n\n");
-
-  // Step 3: parse units + incentives.
-  const incentives = extractIncentives(combinedMarkdown);
-  const listings = extractListings(
-    combinedMarkdown,
-    property.id,
-    startedAt,
-    incentives.primary,
-  );
+  // Keep each page's observations and promotion text separate. A site-wide
+  // promotion is evidence, but does not establish eligibility for every unit.
+  const promotions = markdownChunks.flatMap((chunk) => {
+    const url = chunk.match(/<!-- page: (.*?) -->/)?.[1];
+    return extractIncentives(chunk).all.map((text) => ({ text, url }));
+  });
+  const listings = markdownChunks.flatMap((chunk) => {
+    const pageUrl = chunk.match(/<!-- page: (.*?) -->/)?.[1];
+    const local = promotions.filter((promo) => promo.url === pageUrl);
+    const candidates = local.length ? local : promotions;
+    const units = extractListings(chunk, property.id, startedAt, undefined);
+    return units.flatMap((unit) => candidates.length ? candidates.map((promo) => ({
+      ...unit, incentive: promo.text, incentiveSourceUrl: promo.url,
+      incentiveScope: "property" as const,
+    })) : [unit]);
+  });
 
   const status: ScrapeRun["status"] =
     listings.length === 0

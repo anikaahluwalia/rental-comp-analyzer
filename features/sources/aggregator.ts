@@ -71,12 +71,17 @@ export async function scrapeAggregator(
     combined,
     property.id,
     startedAt,
-    incentives.primary,
+    undefined,
   );
 
   // extractListings stamps source="official-site" — override with the
   // aggregator's label so the audit trail in the UI / PDF is correct.
-  const listings: Listing[] = rawListings.map((l) => ({ ...l, source }));
+  const listings: Listing[] = rawListings.flatMap((listing) => {
+    const observation = { ...listing, source, sourceUrl: url };
+    return incentives.all.length ? incentives.all.map((incentive) => ({
+      ...observation, incentive, incentiveSourceUrl: url, incentiveScope: "property" as const,
+    })) : [observation];
+  });
 
   return {
     listings,

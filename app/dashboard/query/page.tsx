@@ -42,8 +42,8 @@ export default async function QueryPage() {
           style={{ ...labelItalic, fontSize: 12 }}
           className="mt-6 max-w-2xl"
         >
-          Powered by a typed intent parser · production swaps in Claude with
-          tool-use for open-ended questions.
+          Source-grounded research with deterministic financial calculations.
+          Claude orchestrates tools when configured; otherwise a local parser answers supported questions.
         </p>
       </div>
 

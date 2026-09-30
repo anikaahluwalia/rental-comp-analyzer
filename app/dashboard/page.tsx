@@ -145,7 +145,7 @@ export default async function DashboardHome() {
               <>
                 This server has no snapshot on disk yet. Click{" "}
                 <span style={clayTextBold}>Scrape now</span> above to pull
-                pricing from each building's own official marketing site
+                pricing from each building&apos;s own official marketing site
                 plus rentals.ca for secondary coverage. A scrape typically
                 takes 3–4 minutes and uses ~40 Firecrawl credits across
                 all {PROPERTIES.length} buildings.

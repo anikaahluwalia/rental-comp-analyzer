@@ -26,9 +26,8 @@ import { parseUnitType } from "./parse-helpers";
  *      window.
  *
  * After raw extraction, we dedupe: identical (unit type, rent, sqft)
- * tuples from different pages of the same building are the same unit
- * mentioned twice (once on the floorplans page, once in a promo banner,
- * etc.). We keep one copy.
+ * tuples on the same page are collapsed, but different pages and explicit
+ * physical unit numbers retain separate observations for research.
  */
 
 // Rent numbers we accept. Very tight bounds to avoid phone numbers, dates,
@@ -122,8 +121,7 @@ export function extractListingsWithTrace(
   const md = combinedMarkdown
     .replace(/\r\n/g, "\n")
     .replace(/\]\([^)]*\)/g, "]")
-    .replace(/!\[[^\]]*\]/g, "")
-    .replace(/https?:\/\/\S+/g, " ");
+    .replace(/!\[[^\]]*\]/g, "");
 
   const pageRanges = findPageRanges(md);
 
@@ -131,6 +129,9 @@ export function extractListingsWithTrace(
     unitType: UnitType;
     rent: number;
     sqft?: number;
+    sourceUrl?: string;
+    unitNumber?: string;
+    availability?: string;
   };
   const raws: Raw[] = [];
   const trace: RentMatchTrace[] = [];
@@ -145,8 +146,8 @@ export function extractListingsWithTrace(
     );
     const pageUrl = page?.url ?? "(whole-document)";
 
-    const windowStart = Math.max(0, match.index - WINDOW_CHARS);
-    const windowEnd = Math.min(md.length, match.index + WINDOW_CHARS);
+    const windowStart = Math.max(page?.start ?? 0, match.index - WINDOW_CHARS);
+    const windowEnd = Math.min(page?.end ?? md.length, match.index + WINDOW_CHARS);
     const snippet = md.slice(windowStart, windowEnd);
 
     if (!Number.isFinite(rent) || rent < 1200 || rent > 10_000) {
@@ -201,13 +202,18 @@ export function extractListingsWithTrace(
       continue;
     }
 
-    const sqftMatch = snippet.match(SQFT_RE);
-    const sqft =
-      sqftMatch && Number.isFinite(Number(sqftMatch[1]))
-        ? clampSqft(Number(sqftMatch[1]))
-        : undefined;
-
-    raws.push({ unitType, rent, sqft });
+    // Fields on the rent's own line are preferable to nearby cards.
+    const lineStart = md.lastIndexOf("\n", match.index) + 1;
+    const lineEnd = md.indexOf("\n", match.index);
+    const line = md.slice(lineStart, lineEnd < 0 ? md.length : lineEnd);
+    const localSqft = line.match(SQFT_RE)?.[1];
+    const nearbySqft = [...new Set([...snippet.matchAll(new RegExp(SQFT_RE.source, "gi"))].map((m) => m[1]))];
+    const rawSqft = localSqft ?? (nearbySqft.length === 1 ? nearbySqft[0] : undefined);
+    const sqft = rawSqft ? clampSqft(Number(rawSqft)) : undefined;
+    // Bind identity/availability only to the price's own line, never a row index.
+    const unitNumber = line.match(/\b(?:unit|suite|apartment)\s*#?\s*([a-z]?\d+[a-z]?)\b(?![- ]?(?:bed|br|bd)\b)/i)?.[1];
+    const availability = line.match(/\b(unavailable|available now|available|waitlist|leased)\b/i)?.[1]?.toLowerCase();
+    raws.push({ unitType, rent, sqft, sourceUrl: /^https?:\/\//.test(pageUrl) ? pageUrl : undefined, unitNumber, availability });
     trace.push({
       rent,
       charIndex: match.index,
@@ -226,7 +232,7 @@ export function extractListingsWithTrace(
   const out: Listing[] = [];
   let counter = 0;
   for (const r of raws) {
-    const key = `${r.unitType}|${r.rent}|${r.sqft ?? "nosqft"}`;
+    const key = `${r.sourceUrl}|${r.unitNumber}|${r.unitType}|${r.rent}|${r.sqft ?? "nosqft"}|${r.availability}`;
     if (seen.has(key)) continue;
     seen.add(key);
     counter += 1;
@@ -236,6 +242,10 @@ export function extractListingsWithTrace(
       rent: r.rent,
       sqft: r.sqft,
       incentive,
+      sourceUrl: r.sourceUrl,
+      unitNumber: r.unitNumber,
+      availability: r.availability,
+      incentiveScope: incentive ? "property" : undefined,
       unitId: `${propertyId.toUpperCase().replace(/-/g, "")}-${String(counter).padStart(4, "0")}`,
       source: "official-site",
       scrapedAt,

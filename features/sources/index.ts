@@ -46,7 +46,7 @@ import { scrapeAggregator } from "./aggregator";
  */
 export async function scrapeProperty(
   property: Property,
-): Promise<{ listings: Listing[]; runs: ScrapeRun[] }> {
+): Promise<{ listings: Listing[]; observations: Listing[]; runs: ScrapeRun[] }> {
   // Fire every configured source in parallel for this property. We
   // capture each as a settled promise so one source exploding doesn't
   // take out the others.
@@ -86,7 +86,7 @@ export async function scrapeProperty(
   const runs = settled.map((s) => s.run);
   const listings = mergeListingsAcrossSources(settled.map((s) => s.listings));
 
-  return { listings, runs };
+  return { listings, observations: settled.flatMap((s) => s.listings), runs };
 }
 
 /**
@@ -104,9 +104,10 @@ export async function scrapeProperty(
  */
 export async function scrapeAll(
   properties: Property[],
-): Promise<{ listings: Listing[]; runs: ScrapeRun[] }> {
+): Promise<{ listings: Listing[]; observations: Listing[]; runs: ScrapeRun[] }> {
   const BATCH_SIZE = 2;
   const allListings: Listing[] = [];
+  const allObservations: Listing[] = [];
   const allRuns: ScrapeRun[] = [];
 
   for (let i = 0; i < properties.length; i += BATCH_SIZE) {
@@ -114,12 +115,14 @@ export async function scrapeAll(
     const results = await Promise.all(batch.map((p) => scrapeProperty(p)));
     for (const r of results) {
       allListings.push(...r.listings);
+      allObservations.push(...r.observations);
       allRuns.push(...r.runs);
     }
   }
 
   return {
     listings: allListings,
+    observations: allObservations,
     runs: allRuns,
   };
 }
@@ -141,9 +144,8 @@ const SOURCE_PRIORITY: ScrapeSource[] = [
  * are considered the same unit if they share (unitType, rent, sqft ?? null).
  * When duplicates collide we keep the one from the highest-priority source.
  *
- * Numbering (unitId) is re-stamped so the final list has a consistent
- * `<PROPERTYID>-<NNNN>` sequence regardless of which source each listing
- * came from.
+ * Original observation IDs are retained. Research uses the separate, unmerged
+ * observations collection so disagreements are not hidden by this legacy view.
  */
 function mergeListingsAcrossSources(perSource: Listing[][]): Listing[] {
   const byKey = new Map<string, Listing>();
@@ -164,18 +166,8 @@ function mergeListingsAcrossSources(perSource: Listing[][]): Listing[] {
     }
   }
 
-  // Re-stamp unitId so the merged list has a clean 0001..NNNN sequence
-  // per property, preserving first-seen order.
-  const merged = [...byKey.values()];
-  const counters = new Map<string, number>();
-  return merged.map((l) => {
-    const n = (counters.get(l.propertyId) ?? 0) + 1;
-    counters.set(l.propertyId, n);
-    return {
-      ...l,
-      unitId: `${l.propertyId.toUpperCase().replace(/-/g, "")}-${String(n).padStart(4, "0")}`,
-    };
-  });
+  // Dashboard compatibility view only; research retains all original observations.
+  return [...byKey.values()];
 }
 
 function syntheticFailedRun(
