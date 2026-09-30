@@ -1,7 +1,7 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { getSession } from "@/features/auth";
-import { getListings } from "@/features/listings";
-import { runQuery } from "@/features/query";
+import { getResearchContext } from "@/features/listings";
+import { runResearchAgent } from "@/features/research-agent";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -9,9 +9,7 @@ export const dynamic = "force-dynamic";
 /**
  * POST /api/query  { "q": "cheapest 1-bed" }
  *
- * Routes natural-language questions through the deterministic parser.
- * Designed to be a drop-in for a future Claude-backed tool-use
- * implementation — same request/response shape.
+ * Uses bounded server-side Claude tool use, with a deterministic fallback.
  */
 export async function POST(req: NextRequest) {
   const session = await getSession();
@@ -26,14 +24,13 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "bad request" }, { status: 400 });
   }
   const q = (body as { q?: unknown })?.q;
-  if (typeof q !== "string") {
+  if (typeof q !== "string" || !q.trim() || q.length > 2000) {
     return NextResponse.json(
-      { error: "`q` must be a string." },
+      { error: "`q` must be a non-empty string of at most 2000 characters." },
       { status: 400 },
     );
   }
 
-  const listings = getListings();
-  const answer = runQuery(q, listings);
+  const answer = await runResearchAgent(q, getResearchContext());
   return NextResponse.json({ ok: true, answer });
 }

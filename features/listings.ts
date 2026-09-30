@@ -31,6 +31,8 @@ import seedData from "./seed-listings.json";
 
 type Store = {
   listings: Listing[];
+  observations?: Listing[];
+  previousObservations?: Listing[];
   runs: ScrapeRun[];
   lastScrapedAt: string | null;
 };
@@ -39,7 +41,6 @@ type Store = {
 // global object. Without this, HMR would occasionally reset the store
 // between requests.
 declare global {
-  // eslint-disable-next-line no-var
   var __rentalCompListingsStore: Store | undefined;
 }
 
@@ -82,7 +83,6 @@ function loadSnapshotSync(): Store | null {
   // (getListings, getLastScrapedAt). Dev-only file, tiny JSON — the sync
   // read is fine.
   try {
-    // eslint-disable-next-line @typescript-eslint/no-require-imports
     const fsSync = require("node:fs") as typeof import("node:fs");
     if (!fsSync.existsSync(SNAPSHOT_PATH)) return null;
     const raw = fsSync.readFileSync(SNAPSHOT_PATH, "utf-8");
@@ -92,6 +92,8 @@ function loadSnapshotSync(): Store | null {
     };
     return {
       listings: parsed.listings ?? [],
+      observations: parsed.observations,
+      previousObservations: parsed.previousObservations,
       runs: parsed.runs ?? [],
       lastScrapedAt: parsed.lastScrapedAt ?? null,
     };
@@ -154,11 +156,14 @@ export async function triggerScrape(): Promise<{
   listingsFound: number;
   runs: ScrapeRun[];
 }> {
-  const { listings, runs } = await scrapeAll(PROPERTIES);
+  const previous = ensureStore();
+  const { listings, observations, runs } = await scrapeAll(PROPERTIES);
   const lastScrapedAt = new Date().toISOString();
 
   const store: Store = {
     listings,
+    observations,
+    previousObservations: previous.observations ?? previous.listings,
     runs,
     lastScrapedAt,
   };
@@ -172,4 +177,12 @@ export async function triggerScrape(): Promise<{
     listingsFound: listings.length,
     runs,
   };
+}
+
+/** Research keeps raw source observations and one prior snapshot for conflicts.
+ * Legacy snapshots remain usable but cannot recover discarded URLs/identities.
+ */
+export function getResearchContext() {
+  const store = ensureStore();
+  return { listings: store.observations ?? store.listings, previous: store.previousObservations ?? [] };
 }

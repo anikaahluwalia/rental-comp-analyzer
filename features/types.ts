@@ -78,6 +78,14 @@ export type Listing = {
   incentive?: string; // e.g. "1 month free on 12-month lease"
   unitId?: string; // source-provided ID if any
   floorplanUrl?: string;
+  /** Exact page observed, never inferred from the property configuration. */
+  sourceUrl?: string;
+  /** Explicit physical unit number, not a generated ID or floorplan name. */
+  unitNumber?: string;
+  availability?: string;
+  incentiveSourceUrl?: string;
+  /** Site-wide promotions are not confirmed to apply to individual units. */
+  incentiveScope?: "unit" | "property";
   /** Where this specific unit was scraped from. */
   source: ScrapeSource;
   scrapedAt: string; // ISO timestamp

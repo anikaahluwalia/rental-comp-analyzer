@@ -94,12 +94,21 @@ function parseWordOrDigit(token: string): number | null {
  * Anything else → `{ kind: 'needs-review' }` with a short reason.
  */
 export function parseIncentive(raw: string | undefined): IncentiveDiscount {
-  if (!raw) return { kind: "none" };
+  if (!raw?.trim()) return { kind: "none" };
   const s = raw.toLowerCase().trim();
+  if (/^(?:none|no incentives?|no promotions?)[.!]?$/.test(s)) return { kind: "none" };
+
+  // Conditional, combined, and non-rent offers cannot be safely auto-credited.
+  if (/up to|select|qualif|subject to|before|until|by\s+\w|conditional|parking|locker|storage|gift|wi-fi|wifi|\band\b|&|\+|first\s+month|per\s+month/i.test(s)) {
+    return { kind: "needs-review", reason: "Eligibility, timing, combined benefits, or non-rent value needs confirmation." };
+  }
+  if (/\d+(?:\.\d+)?\s*%/.test(s) && !/off\s+(?:the\s+)?(?:first year|12[- ]month(?:s)?|monthly rent)\s*[.!]?$/i.test(s)) {
+    return { kind: "needs-review", reason: "Percentage discount duration is unclear." };
+  }
 
   // "X months/month free on a Y-month lease"
   const monthsFree = s.match(
-    /(\d+|one|two|three|four|five|six)\s*months?\s*free(?:\s*on\s*(?:a\s*)?(\d+)[- ]?month\s*lease)?/i,
+    /(?<![\d.])(\d+(?:\.\d+)?|one|two|three|four|five|six)\s*months?\s*free(?:\s*on\s*(?:a\s*)?(\d+)[- ]?month\s*lease)?/i,
   );
   if (monthsFree) {
     const n = parseWordOrDigit(monthsFree[1]);
@@ -107,16 +116,17 @@ export function parseIncentive(raw: string | undefined): IncentiveDiscount {
       const statedTerm = monthsFree[2]
         ? parseInt(monthsFree[2], 10)
         : DEFAULT_LEASE_TERM_MONTHS;
+      if (statedTerm <= 0) return { kind: "needs-review", reason: "Lease term must be positive." };
       return { kind: "months-free", monthsFree: n, statedTerm };
     }
   }
 
   // "X weeks free"
-  const weeksFree = s.match(/(\d+)\s*weeks?\s*free/i);
+  const weeksFree = s.match(/(?<![\d.])(\d+(?:\.\d+)?)\s*weeks?\s*free(?:\s*on\s*(?:a\s*)?(\d+)[- ]?month\s*lease)?/i);
   if (weeksFree) {
-    const n = parseInt(weeksFree[1], 10);
+    const n = parseFloat(weeksFree[1]);
     if (n > 0 && n < 52) {
-      return { kind: "weeks-free", weeksFree: n, statedTerm: DEFAULT_LEASE_TERM_MONTHS };
+      return { kind: "weeks-free", weeksFree: n, statedTerm: weeksFree[2] ? Number(weeksFree[2]) : DEFAULT_LEASE_TERM_MONTHS };
     }
   }
 
@@ -172,7 +182,7 @@ export function computeEffectiveRent(
 
   switch (discount.kind) {
     case "none":
-      explanation = "No incentive on this unit.";
+      explanation = listing.incentive?.trim() ? "Source explicitly reports no incentive; effective rent equals listed rent." : "No incentive information in this snapshot; raw rent shown without an assumed discount.";
       break;
 
     case "months-free": {
@@ -231,6 +241,12 @@ export function computeEffectiveRent(
     case "needs-review":
       explanation = `Incentive detected, manual review needed — ${discount.reason}`;
       break;
+  }
+
+  if (!Number.isFinite(effectiveRent) || effectiveRent < 0 || leaseTermMonths <= 0) {
+    return { rawRent, effectiveRent: rawRent, monthlySavings: 0, effectiveDiscountPct: 0,
+      discount: { kind: "needs-review", reason: "Invalid lease term or discount exceeds lease cost." },
+      explanation: "Incentive math is invalid; manual review needed.", applied: false };
   }
 
   const applied =
